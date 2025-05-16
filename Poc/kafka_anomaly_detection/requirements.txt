@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+mysql-connector-python
+kafka-python
+pymongo
+numpy
+tensorflow
